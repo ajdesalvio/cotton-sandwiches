@@ -14,5 +14,7 @@
 
 - M4_M5_M6.py: Python script used to run the second set of three convolutional neural networks (CNNs). Here, Optuna was used for hyperparameter optimization using E1 data. After hyperparameters were saved, M4, M5, and M6 were evaluated by training each model with E1 data and testing on E2 data. These CNNs all have in common that the activation function for the first of two dense layers was searchable by Optuna (not set to ReLU as with M1-3).
   - df4.csv: contains regression targets (FPC1 scores) for each concatenated time-series image (TSI, or "image sandwich").
+ 
+- Saliency_Maps.py: Python script meant to be pasted after line 464 of M1_M2_M3.py and M4_M5_M6.py. By selecting between the two indices provided in the script, activation/saliency maps can be produced for an example of a plant demonstrating stay-green or rapid senescence.
 
 - Images.zip: contains all JPEGs necessary to run the Python scripts.
