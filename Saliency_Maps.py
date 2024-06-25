@@ -1,12 +1,12 @@
     # Saliency map visualization
     # To generate a stay-green or rapid senescence example, change activ_index to either 230 or 190, respectively.
     # To produce the activation maps, paste this portion of code immediately after the eval_list[i], metrics_list[i],
-    #  and labels_list[i] objects (approx. line 464). 
+    #  and labels_list[i] objects in the M1_M2_M3.py or M4_M5_M6.py scripts (approx. line 464). 
     
     # Example of stay-green: 230 
     # Example of rapid senescence: 190
 
-    activ_index = 197
+    activ_index = 230
     sample_images = testx_4d[activ_index]
     print(list(testx_dict.keys())[activ_index])
     check_geno = list(testx_dict.keys())[activ_index]
