@@ -2,6 +2,8 @@
 
 ### This repository is meant to serve as a companion to a manuscript of the same name. It will be updated throughout the preprint and publication process.
 
+### Link to the preprint: https://www.biorxiv.org/content/10.1101/2024.06.30.601428v1
+
 ### Scripts and associated files:
 - R_Script_V8.R: R script used to run FPCA and ANOVA
   - df1.csv: used for FPCA of visual senescence scores, RCC, and TNDGR vegetation indices (VIs)
