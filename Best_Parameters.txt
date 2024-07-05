@@ -1,0 +1,17 @@
+# M1
+best_parameters = {'lr': 0.00011251172827831647, 'dense_neurons': 256, 'dropout_rate': 0.4736691046820484, 'activation_function': 'relu', 'regularization': 0.00020591192573881568, 'num_conv_layers': 4, 'first_kernel': 2, 'num_filters_layer_0': 32}
+
+# M2
+best_parameters = {'lr': 0.000991873235029869, 'dense_neurons': 512, 'dropout_rate': 0.23787297957281783, 'activation_function': 'relu', 'regularization': 0.0029295206923397586, 'num_conv_layers': 3, 'first_kernel': 3, 'num_filters_layer_0': 32}
+
+# M3
+best_parameters = {'lr': 2.7437901557241912e-05, 'dense_neurons': 1024, 'dropout_rate': 0.040524389703081864, 'activation_function': 'relu', 'regularization': 0.00010049200477375864, 'num_conv_layers': 1, 'first_kernel': 3, 'num_filters_layer_0': 16}
+
+# M4
+best_parameters = {'lr': 9.509962876969529e-05, 'dense_neurons': 128, 'dropout_rate': 0.057178606724506434, 'activation_function': 'tanh', 'regularization': 0.0001334079910830231, 'num_conv_layers': 5, 'first_kernel': 4, 'num_filters_layer_0': 16}
+
+# M5
+best_parameters = {'lr': 0.0008299592354645688, 'dense_neurons': 128, 'dropout_rate': 0.3564612528311506, 'activation_function': 'relu', 'regularization': 0.0015099305522892573, 'num_conv_layers': 4, 'first_kernel': 5, 'num_filters_layer_0': 16}
+
+# M6
+best_parameters = {'lr': 0.00023109590822518737, 'dense_neurons': 512, 'dropout_rate': 0.12576559154456757, 'activation_function': 'relu', 'regularization': 0.00010029048358622253, 'num_conv_layers': 2, 'first_kernel': 6, 'num_filters_layer_0': 16}
