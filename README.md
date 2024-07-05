@@ -20,3 +20,5 @@
 - Saliency_Maps.py: Python script meant to be pasted after line 464 of M1_M2_M3.py and M4_M5_M6.py. By selecting between the two indices provided in the script, activation/saliency maps can be produced for an example of a plant demonstrating stay-green or rapid senescence.
 
 - Images.zip: contains all JPEGs necessary to run the Python scripts.
+
+- Best_Parameters.txt: contains the hyperparameters nominated by Optuna to produce the strongest regression results for each of the six models. To reproduce the results discussed in the manuscript for M1-M6, copy the dictionary (curly brackets) and replace the placeholder values on line 316 of M1_M2_M3.py or M4_M5_M6.py and uncomment that line. This will allow you to run the 25-replication CNN regression that begins on line 344 with the specified parameters.
