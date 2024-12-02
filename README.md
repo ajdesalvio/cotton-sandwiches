@@ -1,8 +1,8 @@
 # Temporal Image Sandwiches Enable Link between Functional Data Analysis and Deep Learning for Single-Plant Cotton Senescence
 
-### This repository is meant to serve as a companion to a manuscript of the same name. It will be updated throughout the preprint and publication process.
+### This repository serves as a companion to DeSalvio et al., 2024. All supplementary code and raw images are available for download here.
 
-### Link to the preprint: https://www.biorxiv.org/content/10.1101/2024.06.30.601428v1
+### Link to the article: https://doi.org/10.1093/insilicoplants/diae019
 
 ### Scripts and associated files:
 - R_Script_V8.R: R script used to run FPCA and ANOVA
